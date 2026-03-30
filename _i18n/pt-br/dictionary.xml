@@ -7334,8 +7334,6 @@
   <block id="a7830ad2c8a207ef49179b294bb2f025" category="list-text">Atualização 9,12 -&gt; 9,13</block>
   <block id="735de3cfc0c0985a1a724be6fb3d04d4" category="inline-link">artigo da base de conhecimento (KB)</block>
   <block id="f9acf01a06b205cc3bc90281ea290501" category="paragraph">Para obter mais informações sobre a matriz de caminho de atualização, consulte este<block ref="bd9d6f7be5cc9d0d2fbf7597decadef8" category="inline-link-rx"></block>.</block>
-  <block id="91d9102f2b20d2487525cb47bf7d79a5" category="summary">Documentação para Active IQ Unified Manager, documentos AIQUM, UM docs</block>
-  <block id="4a58c6ba2ac7cf0f2cd001d223b14e50" category="doc">Documentação do Active IQ Unified Manager</block>
   <block id="90d0e221e2efe7b6e9b3933dbc0abbb5" category="summary">Para acessar a IU da Web do Unified Manager, use um navegador compatível.</block>
   <block id="6d84e3718084e0db779da4ff8791a2f2" category="doc">Navegadores suportados</block>
   <block id="64fa4b541831d42a2077400f1f10a1f0" category="paragraph">A Matriz de interoperabilidade tem a lista de versões suportadas do navegador.</block>
@@ -11944,4 +11942,6 @@
   <block id="9578fa84ff359de78da764edb1c96f57" category="sidebar">Definições de estado da conetividade do cluster</block>
   <block id="baf5d44e1d7facdf126425b9dacabd71" category="sidebar">Definições de status de espelhamento de dados</block>
   <block id="323f966c65a63cb769e4f899cb19451f" category="paragraph">Se uma operação de restauração falhar entre clusters do Cloud Volumes ONTAP HA com um erro NDMP, talvez seja necessário adicionar uma rota AWS explícita no cluster de destino para que o destino possa se comunicar com o LIF de gerenciamento de cluster do sistema de origem. Execute esta etapa de configuração usando o NetApp Console.</block>
+  <block id="601bd9ca04dd14b95c529c358a4d32e5" category="sidebar">Documentação do Active IQ Unified Manager</block>
+  <block id="0dd1de1695b4d51ee336c5594c679796" category="sidebar">Active IQ Unified Manager (Unified Manager, e anteriormente OnCommand Unified Manager) permite que você monitore e gerencie a integridade e o desempenho dos seus sistemas de armazenamento ONTAP a partir de uma única interface. Esta biblioteca de documentação inclui informações para a versão 9.13. Active IQ Unified Manager (Unified Manager, e anteriormente OnCommand Unified Manager) permite que você monitore e gerencie a integridade e o desempenho dos seus sistemas de armazenamento ONTAP a partir de uma única interface. Esta biblioteca de documentação inclui informações para a versão 9.13.</block>
 </blocks>
